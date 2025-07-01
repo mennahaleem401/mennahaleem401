@@ -111,7 +111,4 @@ Faculty of Computers & Artificial Intelligence – *Benha University*
 * ✅ Time Management & Multitasking
 * ✅ Public Speaking & Presentation
 
----
-
-Let me know if you’d like the Markdown file downloaded or want to tweak anything (like tone, formatting, or emojis).
 
