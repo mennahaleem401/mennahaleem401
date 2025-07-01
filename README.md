@@ -99,7 +99,7 @@ Faculty of Computers & Artificial Intelligence – *Benha University*
 
 ## 🤝 Volunteering & Leadership
 
-* 🎤 Speaker at IEEE BUB Welcome Day — presented to 300+ attendees
+* 📊 Data Science Core-Team at GDG Zagazig
 * 🤖 Team Leader – Arduino Committee, IEEE BUB (6 members)
 
 ---
