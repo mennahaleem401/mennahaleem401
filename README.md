@@ -61,38 +61,68 @@ Faculty of Computers & Artificial Intelligence – *Benha University*
 
 ## 📈 Recent Projects
 
-### 📰 Fake News Stance Detection
+### 👟 **Adidas vs Nike Product Clustering**
 
-🧠 Built deep learning models to classify headline-article pairs
+**Description:**
+Performed unsupervised clustering on Adidas and Nike product data to segment items based on features such as price, rating, and product category. The goal was to uncover patterns in product offerings, support competitive analysis, and guide strategic decisions in marketing and pricing.
+
+**Tools & Technologies:**
+Python, K-means Clustering, PCA, Silhouette Score, Scikit-learn, Pandas, Matplotlib, Seaborn
+📊 Result: Segmented products into distinct clusters, improving insight into brand differentiation
+
+---
+
+### 📰 **Fake News Stance Detection**
+
+**Description:**
+Developed deep learning models to determine the relationship (stance) between news headlines and corresponding article bodies. The model classifies whether the headline agrees, disagrees, discusses, or is unrelated to the article. This project helps in detecting misinformation.
+
+**Tools & Technologies:**
+Python, NLP, Keras, TensorFlow, Scikit-learn, Pandas, Deep Learning
 📊 Achieved **90%+ F1-score**
-📂 Tools: Python, NLP, Deep Learning
 
 ---
 
-### 🏠 House Rent Prediction
+### 🏠 **House Rent Prediction**
 
-📉 Trained regression model to predict rental prices
-📊 Achieved MAE of **2.3K EGP** on 1,500+ listings
+**Description:**
+Built a regression model to predict rental prices of houses based on features like location, size, and amenities. The model helps potential tenants estimate rent prices in different areas.
 
----
-
-### 💼 Employee Leave Prediction
-
-📈 Forecasted employee leave eligibility
-📊 Accuracy: **87%** using HR records and classification models
+**Tools & Technologies:**
+Python, Scikit-learn, Pandas, Matplotlib, Regression Algorithms
+📊 MAE: **2.3K EGP** on 1,500+ listings
 
 ---
 
-### 💎 Gemstone Classification
+### 💼 **Employee Leave Prediction**
 
-🧠 CNN model using Keras
-📊 Accuracy: **92%** across multiple gemstone categories
+**Description:**
+Designed a machine learning model to predict whether an employee is eligible for leave based on HR data, including factors like service years, department, and previous leaves.
+
+**Tools & Technologies:**
+Python, Scikit-learn, Pandas, Classification Models, Exploratory Data Analysis
+📊 Accuracy: **87%**
 
 ---
 
-### 🧠 Stroke Risk Prediction
+### 💎 **Gemstone Classification**
 
-🔍 Logistic regression model to predict stroke likelihood
+**Description:**
+Created a Convolutional Neural Network (CNN) to classify gemstone images into categories. This can support automated quality inspection systems.
+
+**Tools & Technologies:**
+Python, Keras, TensorFlow, CNN, Image Classification, NumPy
+📊 Accuracy: **92%**
+
+---
+
+### 🧠 **Stroke Risk Prediction**
+
+**Description:**
+Developed a logistic regression model to predict stroke risk based on patient health metrics like age, hypertension, heart disease, and lifestyle factors.
+
+**Tools & Technologies:**
+Python, Scikit-learn, Logistic Regression, Pandas, Matplotlib
 📊 Accuracy: **85%**
 
 ---
