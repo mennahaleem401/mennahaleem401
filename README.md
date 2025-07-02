@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mennahaleem401&label=Profile%20views&color=0e75b6&style=flat" alt="mennahaleem401" /> </p>
 
 <h1 align="center">Hi 👋, I'm Menna Haleem</h1>
-<h3 align="center">AI & ML Engineer | Data Science & Data Engineering Enthusiast</h3>
+<h3 align="center">AI & ML Engineer & Data Engineering Enthusiast</h3>
 
 <img align="right" alt="Coding GIF" width="350" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
