@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mennahaleem401&label=Profile%20views&color=0e75b6&style=flat" alt="mennahaleem401" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="mennahaleem401" /> </p>
 
 <h1 align="center">Hi 👋, I'm Menna Haleem</h1>
 <h3 align="center">AI & ML Engineer & Data Engineering Enthusiast</h3>
